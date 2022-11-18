@@ -3,7 +3,7 @@ Hey there I'm Gianni, a 1st year Epitech student in Lille. I am looking forward 
 
 [![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=CapucheGianni&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CapucheGianni&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapucheGianni&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CapucheGianni/CapucheGianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
