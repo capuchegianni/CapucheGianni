@@ -1,9 +1,11 @@
-### Who am I ?
+[![MasterHead](https://cdn.discordapp.com/attachments/507551445021753370/1043140733223321600/banner_1.png)](https://github.com/CapucheGianni)
+
+## Who am I ?
 Hey there I'm Gianni, a 1st year Epitech student in Lille. I am looking forward to learn Javascript by myself and I'm currently learning C and shell at Epitech.
 
-[![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=CapucheGianni&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Gianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=capuchegianni&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapucheGianni&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=capuchegianni&theme=tokyonight&border_radius=3)](https://git.io/streak-stats)
 
 <!--
 **CapucheGianni/CapucheGianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
