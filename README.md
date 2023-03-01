@@ -14,6 +14,6 @@ You can contact me on Discord (Gianni 愛#5597), [Twitter](https://twitter.com/C
   
 ![](https://github-readme-stats.vercel.app/api?username=capuchegianni&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)
 
-![](http://github-readme-streak-stats.herokuapp.com?user=capuchegianni&theme=tokyonight&border_radius=3)
+![](http://github-readme-streak-stats.herokuapp.com?user=leodumont444&theme=tokyonight&border_radius=3)
   
 </div>
