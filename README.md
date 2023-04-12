@@ -9,6 +9,8 @@ You can contact me on Discord (Gianni 愛#5597), by [Mail](mailto:gianni.henriqu
 ## Some stats
 
 <div align="center">
+  
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capuchegianni&layout=compact&theme=tokyonight&border_radius=3)
 
   ### Languages I've been in touch with
 
@@ -19,8 +21,7 @@ You can contact me on Discord (Gianni 愛#5597), by [Mail](mailto:gianni.henriqu
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capuchegianni&layout=compact&theme=tokyonight&border_radius=3)
+  <br>
 
   ### Technologies I've been using
 
@@ -31,6 +32,6 @@ You can contact me on Discord (Gianni 愛#5597), by [Mail](mailto:gianni.henriqu
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-  ![Activity](http://github-readme-streak-stats.herokuapp.com?user=CapucheGianni&theme=tokyonight&border_radius=3)
+  <!-- ![Activity](http://github-readme-streak-stats.herokuapp.com?user=CapucheGianni&theme=tokyonight&border_radius=3) -->
 
 </div>
