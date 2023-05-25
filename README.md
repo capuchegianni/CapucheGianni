@@ -10,7 +10,7 @@ You can contact me on Discord (Gianni 愛#5597), by [Mail](mailto:gianni.henriqu
 
 <div align="center">
   
-  [![Languages](https://github-stats-alpha-orcin.vercel.app/api/top-langs/?username=capuchegianni&layout=compact&theme=tokyonight&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
+  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capuchegianni&layout=donut&theme=tokyonight&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
 
   ### Languages I've been in touch with
 
