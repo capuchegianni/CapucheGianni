@@ -1,10 +1,10 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/507551445021753370/1043140733223321600/banner_1.png)](https://github.com/CapucheGianni)
 
 ## Who am I ?
-Hey there I'm Gianni, a 1st year Epitech student in Lille. I am looking forward to learn `Javascript` by myself and I'm currently learning `C`, `Bash` and how to use `Docker` every day at Epitech.  
-I'm working on multiple projects related to my school but I also aim to participate in the creation and the development of a Discord bot in the future.
+Hey there I'm Gianni, a 2nd year Epitech student in Lille. I'm currently learning `Javascript` and I'm good for using `C` and `Bash`. I'm also able to use `Docker` and github actions in my projects.
+I'm working on multiple projects related to Epitech but I'm also currently working on a discord bot and doing little web projects.
 
-You can contact me on Discord (Gianni 愛#5597), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
+You can contact me on Discord (capuchegianni), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
 
 ## Some stats
 
