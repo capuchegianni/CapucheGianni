@@ -5,7 +5,7 @@ Hey there I'm Gianni, a 2nd year Epitech student in Lille. <br>
 I did 1 year of `C` and right now I'm more of a `Javascript` enjoyer 😂. I'm currently into a 4 months internship in a company named ADTI where I mostly do `Typescript`, `Angular (TS)` and `C#`.
 Besides all these wonderful activities, I'm working on a Discord Bot and I do small web projects to improve my JS level.
 
-You can contact me on Discord (capuchegianni), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
+You can contact me on [Discord](https://discordapp.com/users/475716841650651137), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
 
 ## Some stats
 
