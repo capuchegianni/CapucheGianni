@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/507551445021753370/1043140733223321600/banner_1.png)](https://github.com/CapucheGianni)
+[![MasterHead](https://i.imgur.com/vgYRZYu.png)](https://github.com/CapucheGianni)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=5000&pause=2000&color=1352F7&background=081F1700&center=true&vCenter=true&random=false&width=1080&lines=Welcome+on+my+page+fellow+developer)](https://git.io/typing-svg)
 ## Who am I ?
 Hey there I'm Gianni, a 2nd year Epitech student in Lille. <br>
