@@ -42,7 +42,7 @@ You can contact me on [Discord](https://discordapp.com/users/475716841650651137)
 
   <br>
 
-  ### Web and mobile frameworks
+  ### Web, mobile and applications frameworks
 
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React)
   [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_Native)
