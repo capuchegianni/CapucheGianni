@@ -3,9 +3,10 @@
 ## Who am I ?
 Hey there I'm Gianni, a 3rd year Epitech student in Lille. <br>
 I mostly work with `C`, `C++`, `Python` and `Typescript` but I'm still discovering many more languages. <br>
-Besides my studies, I'm working on a Discord Bot named Kaide and I do small web projects to improve my JS/TS knowledge.
+Besides my studies, I'm developing a Discord Bot named Kaide and I do small web projects to improve my JS/TS knowledge.
 
-You can contact me on [Discord](https://discordapp.com/users/475716841650651137), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
+I'm currently working as a Fullstack developer at [@Trackap](https://github.com/Trackap) until late July, before leaving to Korea for a year. <br>
+If you wanna discuss, you can contact me on [Discord](https://discordapp.com/users/475716841650651137), by [Mail](mailto:gianni.henriques@gmail.com) or on [Linkedin](https://linkedin.com/in/gianni-henriques).
 
 ## Some stats
 
