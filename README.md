@@ -14,6 +14,8 @@ If you wanna discuss, you can contact me on [Discord](https://discordapp.com/use
 
   [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=capuchegianni&layout=donut&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=Most%20used%20languages%20on%20github)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
   ### Languages I've been in touch with
 
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -26,21 +28,6 @@ If you wanna discuss, you can contact me on [Discord](https://discordapp.com/use
   [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
   [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
   [![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-  
-  <br>
-
-  ### Technologies I've been using
-
-  [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
-  [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/go)
-  [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
-  [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-  [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://en.wikipedia.org/wiki/Jenkins_(software))
-  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://fr.wikipedia.org/wiki/MySQL)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/MongoDB)
-  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
-
-  <br>
 
   ### Web, mobile and applications frameworks
 
@@ -54,4 +41,13 @@ If you wanna discuss, you can contact me on [Discord](https://discordapp.com/use
   [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/Express.js)
   [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://en.wikipedia.org/wiki/NestJS)
 
-</div>
+  ### Other technologies I've been using
+
+  [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+  [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/go)
+  [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
+  [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+  [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://en.wikipedia.org/wiki/Jenkins_(software))
+  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://fr.wikipedia.org/wiki/MySQL)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/MongoDB)
+  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
