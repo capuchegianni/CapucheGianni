@@ -1,9 +1,9 @@
 [![MasterHead](https://i.imgur.com/vgYRZYu.png)](https://github.com/CapucheGianni)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=5000&pause=2000&color=1352F7&background=081F1700&center=true&vCenter=true&random=false&width=1080&lines=Welcome+on+my+page+fellow+developer)](https://git.io/typing-svg)
 ## Who am I ?
-Hey there I'm Gianni, a 4th year Epitech student, currently studying at Keimyung University of Korea. <br>
+Hey there I'm Gianni, a 5th year Epitech student, currently studying at Epitech for my last year. <br>
 I mostly work with `C`, `C++` and `Typescript` but I'm still discovering many more languages. <br>
-Besides my studies, I'm developing a Discord Bot named Kaide and I do small web projects to improve my JS/TS knowledge.
+Besides my work, I enjoy sports and practicing other kind of activities.
 
 If you wanna discuss, you can contact me by [Mail](mailto:gianni.henriques@gmail.com), on [Linkedin](https://linkedin.com/in/gianni-henriques) or on [Discord](https://discordapp.com/users/475716841650651137).
 
